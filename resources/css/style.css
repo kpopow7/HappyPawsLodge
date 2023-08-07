@@ -12,9 +12,3 @@ h1 {
     animation-name: title;
     animation-duration: 4s;
 }
-
-.pic {
-    max-width: 50%;
-    max-height: 50%;
-    text-align: center;
-}
